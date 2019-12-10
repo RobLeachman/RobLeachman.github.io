@@ -1,0 +1,220 @@
+{
+	"textures": [
+		{
+			"image": "pdw1A@4-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2556,
+				"h": 3456
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "road2test",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2560,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 2554,
+						"h": 1914
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2554,
+						"h": 1914
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "road2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2560,
+						"h": 1920
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 319,
+						"w": 2146,
+						"h": 1538
+					},
+					"frame": {
+						"x": 1,
+						"y": 1917,
+						"w": 2146,
+						"h": 1538
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "man/manGas",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 120
+					},
+					"frame": {
+						"x": 2149,
+						"y": 1917,
+						"w": 114,
+						"h": 120
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "man/manThing",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 120
+					},
+					"frame": {
+						"x": 2149,
+						"y": 2039,
+						"w": 114,
+						"h": 120
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "robot/robotGas",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 120
+					},
+					"frame": {
+						"x": 2149,
+						"y": 2161,
+						"w": 114,
+						"h": 120
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "robot/robotThing",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 120
+					},
+					"frame": {
+						"x": 2149,
+						"y": 2283,
+						"w": 114,
+						"h": 120
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "man/manEmpty",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 114,
+						"h": 88
+					},
+					"frame": {
+						"x": 2149,
+						"y": 2405,
+						"w": 114,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "robot/robotEmpty",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 32,
+						"w": 114,
+						"h": 88
+					},
+					"frame": {
+						"x": 2149,
+						"y": 2495,
+						"w": 114,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:467febf8a4f70bf2c10c4044310c68f5:9d35a01a741b628a9803cc4c37a72ae4:a907f73f349ee66ecadc733250f32006$"
+	}
+}
